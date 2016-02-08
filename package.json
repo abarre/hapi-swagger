@@ -58,5 +58,6 @@
   },
   "peerDependencies": {
     "hapi": "^14.0.0 || ^15.0.0 || ^16.0.0"
-  }
+  },
+  "multiple": true
 }
